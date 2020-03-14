@@ -1,0 +1,39 @@
+
+.bloc-1
+{
+    display: inline-block;
+
+}
+
+.afficher
+{
+    margin-left: 13%;
+}
+
+.pagination
+{
+    position: relative;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+button
+{
+    margin-right: 15px;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px ;
+	margin-bottom: 40px;
+}
+
+label
+{
+    font-size: 25px;
+    color:green;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+
+}
+
+
